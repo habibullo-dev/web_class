@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(115, 94, 161);
+    font-size: 65px;
+}
+body {
+    background-color: #FCE38A;
+}
+
+main {
+    background-color: #F4EDCC;
+}
+
+nav {
+    background-color: #EAFFD0;
+}
+a {
+    /* To remove the default underline from the link */
+    text-decoration: none;
+    font-size: 28px;
+}
+
+li {
+    /* To remove the default bullet point from the list item */
+    list-style-type: none;
+}
+
+p {
+    font-size: 28px;
+    color: rgb(115, 94, 161);
+    text-align: center;
+    font-weight: 600;
+}
+
+img {
+    width: 320px;
+    height: 320px;
+}
